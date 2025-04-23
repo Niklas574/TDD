@@ -1032,9 +1032,9 @@
       "xunit.runner.visualstudio/2.5.3": {},
       "FizzBuzzLib/1.0.0": {
         "runtime": {
-          "FIzzBuzzLib.dll": {
+          "FizzBuzzLib.dll": {
             "assemblyVersion": "1.0.0",
-            "fileVersion": ""
+            "fileVersion": "1.0.0.0"
           }
         }
       }
